@@ -1,0 +1,14 @@
+.logout {
+    position: absolute;
+    top: 15px;
+    left: 8%;
+}
+
+.copyright{
+    position: absolute;
+    color: #928e8e;
+    bottom: 0;
+    font-size: 13px;
+    font-family: monospace;
+    font-weight: 700;
+}
